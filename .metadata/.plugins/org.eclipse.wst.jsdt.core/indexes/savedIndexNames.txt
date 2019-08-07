@@ -1,0 +1,18 @@
+INDEX VERSION 1.4+C:\Bitnami\wampstack-7.2.20-1\apache2\htdocs\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3896989456.index
+3808442948.index
+2176439837.index
+3804475505.index
+1036702979.index
+697087888.index
+1752846413.index
+1262909707.index
+2418234843.index
+36882446.index
+2100059563.index
+3776802928.index
+1288274127.index
+2170092087.index
+2631255683.index
+3502661439.index
+2827941565.index

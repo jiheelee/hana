@@ -1,0 +1,18 @@
+<%@include file="header.jsp"%>
+ <form id="login_form" method="post" name="login_form" action="loginok.php">
+    <input type="hidden" value="join" name="mode">
+    <p>아이디</p> <input type="text" id="userID" name="member_id" placeholder="아이디"/>
+    <span class="errMsg" id="userIDErrText">아이디를 네 글자 이상 입력해주세요</span>
+    <br>
+    <p>비밀번호</p> <input type="password" name="member_pwd" id="userPass"/>
+    <span class="errMsg" id="userPassErrText">패스워드를 여섯 글자 이상 입력해주세요</span>
+    <br>
+
+    <input type="button" id="login" name="login" value="로그인"/>
+    <br>
+    <p style="text-align: center"><a href="index.html?mode=join">회원가입하기</a></p>
+
+
+  </form>
+</body>
+</html>
